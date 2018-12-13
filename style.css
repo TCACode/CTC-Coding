@@ -1,0 +1,277 @@
+div.menu{
+    width: 100%;
+    margin: 0;
+    border: none;
+    padding: 0px;
+    background-color: #5d0c8c;
+    height: 75px;
+    top: 0;
+    left: 0;
+    max-height: 80px;
+}
+
+div.page{
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:20px;
+    left:0px;
+    background-image:url("http://www.tcalions.com/wp-content/uploads/2018/01/21641142_10214071657934289_8614516746974338602_o.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+     
+    
+}
+
+div.t{
+    position:absolute;
+    top:300px;
+    z-index:100;
+    width: 80%;
+    left:10%;
+    height:910px;
+    
+    
+}
+
+table{
+    width: 100%;
+    margin: 0;
+    border: none;
+    padding: 0px;
+    background-color: inherit;
+    height: 75px;
+    top: 0;
+    left: 0;
+    max-height: 80px;
+    opacity:1;
+}
+table.sh{
+    width: 100%;
+    margin: 0;
+    border: none;
+    padding: 0px;
+    
+    height: 75px;
+    top: 0;
+    left: 0;
+    max-height: 80px;
+    
+    
+}
+
+table.sh:hover{
+    background-color: #5d0c8c;
+    font-size:26px;
+    transition: all.7s;
+   
+}
+
+div.bc{
+    background-color: 
+    opacity:;
+}
+
+th{
+    padding: 0px;
+    border: none;
+    background-color: inherit;
+}
+
+td{
+    font-size:22px;
+    color:white;
+    
+}
+
+button{
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: inherit;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+    transition: all.7s;
+    font-size: 20px;
+    height: 100%;
+}
+
+p.info{
+    font-size: 35px;
+    text-align: center;
+}
+
+img.coach{
+    width: 20%;
+    height: 20%;
+}
+
+p.center{
+    text-align: center;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+}0
+
+img.class{
+    width: 450px;
+    height: 400;
+}
+
+img.size{
+    width: 500px;
+    height: 400px;
+}
+
+img.diff{
+    width: 325;
+    height: 350;
+}
+
+.size{
+    height: 300px;
+    width: 320;
+}
+
+.width{
+    width: 500px;
+}
+
+div.fontsize{
+    font-size: 25px;
+    text-align: center;
+}
+
+iframe.sweatshirt {
+    position:absolute;
+    top:15%;
+    left:0%;
+    width:50%;
+     height:900px;
+    
+}
+iframe {
+    padding:25px;
+}
+
+iframe.tshirt{
+    position:absolute;
+    top:15%;
+    left:50%;
+    width:50%;
+     height:900px;
+}
+
+iframe.hat{
+    position:absolute;
+    top:1%;
+    left:50%;
+    width:30%;
+    
+     height:900px;
+}
+
+html{
+    background-color:#E9E9E9;
+    font-family:"ZillaSlab-Medium";
+    }
+
+
+h1{
+    font-size:90px;
+    text-align:center;
+     }
+
+img{
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+    }
+table.pics{
+    width:100%;
+    height:100px;
+    position:fixed;
+    margin:middle;
+    
+}
+
+img.pic1{
+    height:500px;
+    width:500px;
+    position:absolute;
+}
+    
+video.vid{
+    width:60%;
+    height:60%;
+     position:relative;
+    left:18%;
+    padding:20px;
+}
+    
+h2{
+    text-align:center;
+    font-size:40px;
+   }
+    
+div.vid1{
+    position: relative;
+    left: 475px;
+    top: 40px;
+}
+
+body.con {
+    background-image:url("http://www.tcalions.com/wp-content/uploads/2018/01/21641142_10214071657934289_8614516746974338602_o.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+     
+}
+
+
+.potato {
+   color: white;
+}
+
+div.potato {
+   padding:20px;
+   color:black;
+    
+}
+div.potato {
+    width:100%;
+    margin:0;
+    border:none;
+    padding:15px;
+    background-color:#5d0c8c;
+    height:100px;
+    position:fixed;
+    top:0;
+    left:0;
+    max-height:10%;
+    }
+    
+.potato {
+    width:100%;
+    margin:0;
+    border:none;
+    padding:0px;
+    background-color:inherit;
+    height:100px;
+    position:fixed;
+    top:0;
+    left:0;
+    max-height:10%;
+    }
+
+
+
